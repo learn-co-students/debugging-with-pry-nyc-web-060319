@@ -11,7 +11,7 @@ We'll cover Pry, a type of REPL, and discuss how to install and use it to debug 
 3. Debug a program using binding.pry within the body of your file.
 
 ## What Is a REPL?
-
+p0
 You've already been introduced to REPLs through using IRB (Interactive Ruby). REPL stands for *Read, Evaluate, Print, Loop*. It is an interactive programming environment that takes a user's input, evaluates it and returns the result to the user. 
 
 Ruby installs with its own REPL, which is IRB, that you've already been using. Every time you type `irb` into your terminal, you're entering into a REPL.
